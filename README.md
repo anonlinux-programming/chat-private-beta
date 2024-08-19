@@ -10,3 +10,4 @@
 Bonjour juste avant de lancer le script je tiens a préciser certaine chose :
 -vous pourrai que avec des ordi du même réseaux que en locale car il en version beta 
 
+nouvelle version bientot dispo
